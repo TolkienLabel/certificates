@@ -3,3 +3,4 @@
 ![java](java.png)
 ![Node](Node.png)
 ![Problem Solving](Problem Solving.png)
+![Sql](Sql.png)
