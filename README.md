@@ -1,1 +1,5 @@
-![pt1](pt1.jpeg)![pt2](pt2.jpeg)
+![angular](angular.png)
+![CSS](CSS.png)
+![java](java.png)
+![Node](Node.png)
+![Problem Solving](Problem Solving.png)
